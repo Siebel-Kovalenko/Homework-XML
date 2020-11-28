@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<message>
+    <team>The best team</team>
+    <ligga>first league</ligga>
+    <players>
+        <player>Me</player>
+        <player>Random player</player>
+    </players>
+    <limit>5</limit>
+</message>
